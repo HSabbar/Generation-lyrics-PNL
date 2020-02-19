@@ -4,7 +4,8 @@ Generation des potentielle tube de groupe PNL (ademo et N.O.S) à partir de leur
 
 ## Résultat :
 ``` 
-igo t'es dans la merde dans le benda j'sais que j'm'enfonce plus sur ma gueule veut sa mère la reine un sourire des des doss' des milliers j'veux plus je me va 
+igo t'es dans la merde dans le benda j'sais que j'm'enfonce plus sur ma gueule veut sa mère 
+la reine un sourire des des doss' des milliers j'veux plus je me va 
 [couplet 1 : n.o.s]
  si belle la on la merde : faut la défaite n'est ça me faut pas mon égal
 en j'ai d'la à ta femme viens voir tout à la vie faire au fond d’un
@@ -23,5 +24,6 @@ que la mif rien n'a changé dans le sourire à une merde faut pas que j'repense
 au passé sinon rah pour du rap ounga à ton je prends le monde s'active c'est
 le biff qui m'fait frissonner n'aie fait ouhlalala crime passionnel que j'ai que du biff rien
 fait la dalle pas ton tel à zoulou tchaing zoulou tchaing zoulou tchaing zoulou tchaing zoulou
-tchaing zoulou tchaing zoulou tchaing zoulou tchaing j'm'en bats les couilles du trône j'préfère être debout
+tchaing zoulou tchaing zoulou tchaing zoulou tchaing j'm'en bats les couilles du trône j'préfère 
+être debout
 ```

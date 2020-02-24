@@ -27,3 +27,8 @@ fait la dalle pas ton tel à zoulou tchaing zoulou tchaing zoulou tchaing zoulou
 tchaing zoulou tchaing zoulou tchaing zoulou tchaing j'm'en bats les couilles du trône j'préfère 
 être debout
 ```
+
+## Inspiration
+
+- https://arxiv.org/pdf/1812.04948.pdf
+- 
